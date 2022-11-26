@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Full stack Web DEVELOPMENT 
 - 💞️ I’m looking to collaborate on gitHub,hashnode
-- 📫 How to reach me @Mumtaz12
+- 📫 How to reach me <a href="https://github.com/Mumtaz12" > @Mumtaz12</a>
 - <h1>Welcome to my Personal Website!</h1>
 https://mumtaz12.github.io/my-portfolio-website.github.io/
 
