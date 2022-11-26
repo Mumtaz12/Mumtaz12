@@ -1,7 +1,7 @@
 - 👋 Hi There, I’m @Mohammad mumtaz
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Full stack Web DEVELOPMENT 
-- 💞️ I’m looking to collaborate on gitHub,
+- 💞️ I’m looking to collaborate on gitHub,hashnode
 - 📫 How to reach me @Mumtaz12
 - <h1>Welcome to my Personal Website!</h1>
 https://mumtaz12.github.io/my-portfolio-website.github.io/
