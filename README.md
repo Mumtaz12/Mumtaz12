@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning<h4> **ReactJS**</h4>
 
 
-- 💬 Ask me about **React,VU**
+- 💬 Ask me about **React,Nodejs**
 
 - 📫 How to reach me **m.mumtazcs@yahoo.com**
 
