@@ -1,5 +1,5 @@
 - 👋 Hi There, I’m @Mohammad mumtaz
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding & Problem Solving
 - 🌱 I’m currently learning Full stack Web DEVELOPMENT 
 - 💞️ I’m looking to collaborate on gitHub,hashnode
 - 📫 How to reach me <a href="https://github.com/Mumtaz12" > @Mumtaz12</a>
