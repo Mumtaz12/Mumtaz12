@@ -11,19 +11,7 @@ https://mumtaz12.github.io/my-portfolio-website.github.io/
 Mumtaz12/Mumtaz12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile...
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Mohammad Mumtaz</h1>
-<h3 align="center">I am passionate Fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mumtaz12&label=Profile%20views&color=0e75b6&style=flat" alt="mumtaz12" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mumtaz12" alt="mumtaz12" /></a> </p>
-
-- 🌱 I’m currently learning<h4> **ReactJS**</h4>
-
-
-- 💬 Ask me about **React,Nodejs**
-
-- 📫 How to reach me **m.mumtazcs@yahoo.com**
 
 <h1 align="center">Hi 👋, I'm Mohammad Mumtaz</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
