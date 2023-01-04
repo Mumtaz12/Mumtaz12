@@ -1,7 +1,4 @@
 
-- <h1>Welcome to my Personal Website!</h1>
-https://mumtaz12.github.io/my-portfolio-website.github.io/
-
 
 <!---
 Mumtaz12/Mumtaz12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile...
@@ -13,6 +10,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A passionate fullstack web developer from India</h3>
 <h3>Summary </h3>
 <h4>Bacherlor's in Computer Science and Engineering, inclined towards JavaScript. Passionate about Web Development and its use to solve real life problems and provide digital solutions.</h4>
+- <h2>Welcome to my Personal Website!</h2>
+https://mumtaz12.github.io/my-portfolio-website.github.io/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mumtaz12&label=Profile%20views&color=0e75b6&style=flat" alt="mumtaz12" /> </p>
 
