@@ -4,10 +4,11 @@
 Mumtaz12/Mumtaz12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile...
 You can click the Preview link to take a look at your changes.
 --->
-<hr>
+
 
 <h1 align="center">Hi 👋, I'm Mohammad Mumtaz</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
+<hr>
 <h3>Summary </h3>
 <hr style="dotted">
 <h4>Bacherlor's in Computer Science and Engineering, inclined towards JavaScript. Passionate about Web Development and its use to solve real life problems and provide digital solutions.</h4>
