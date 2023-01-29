@@ -78,7 +78,7 @@ Reach 👇<br>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mumtaz12&theme=react-dark&area=true&hide_border=trueshow_icons=true&locale=en&layout=compact" alt="mumtaz12" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mumtaz12&theme=react-dark&area=true" alt="mumtaz12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mumtaz12&show_icons=true&locale=en" alt="mumtaz12" /></p>
 
@@ -100,11 +100,11 @@ Reach 👇<br>
 ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<!-- https://github.com/Aadarsh805/github-readme-stats -->
+<!-- https://github.com/Mumtaz12/github-readme-stats -->
 
 ### GitHub Profile Stats : 
 
-<!--   <img alt="Aadarsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh805&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="48%" align='left'/> -->
+<!--   <img alt="Mumtaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadarsh805&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="48%" align='left'/> -->
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=Aadarsh805&show_icons=true&theme=react" width="48%" align="right" > -->
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Aadarsh805&theme=react" width="48%" >
 
