@@ -55,6 +55,9 @@ Reach 👇<br>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mumtaz12" alt="mumtaz12" /></a> </p>
+<!-- <p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Aadarsh805&theme=react-dark&area=true&hide_border=true" width="100%">
+</p>
 
 
 
