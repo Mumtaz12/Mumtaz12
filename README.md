@@ -17,7 +17,8 @@ You can click the Preview link to take a look at your changes.
 <h4>Bacherlor's in Computer Science and Engineering, inclined towards JavaScript. Passionate about Web Development and its use to solve real life problems and provide digital solutions.</h4>
 - <h2 align="center">Welcome to my Personal Website!</h2>
 <hr>
-https://mumtaz12.github.io/my-portfolio-website.github.io/
+**[Personal Portfolio](https://mumtaz12.github.io/my-portfolio-website.github.io/)**
+
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mumtaz12&label=Profile%20views&color=0e75b6&style=flat" alt="mumtaz12" /> </p>
