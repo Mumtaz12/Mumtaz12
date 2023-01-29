@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🤝 I’m looking for help with **Google**
 
-- 👨‍💻 All of my projects are available at [https://mumtaz12.github.io/my-portfolio-website.github.io/](https://mumtaz12.github.io/my-portfolio-website.github.io/)
+- 👨‍💻 All of my projects are available here [Check out all my projects!](https://github.com/Mumtaz12?tab=repositories)
 
 - 💬 Ask me about **java,Javascript,Reactjs**
 
