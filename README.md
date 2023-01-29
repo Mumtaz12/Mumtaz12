@@ -42,6 +42,7 @@ You can click the Preview link to take a look at your changes.
 
 Reach 👇<br>
 <p align="left"> <a href="https://twitter.com/@iammumtazcs" target="blank"><img src="https://img.shields.io/twitter/follow/@iammumtazcs?logo=twitter&style=for-the-badge" alt="@iammumtazcs" /></a> </p>
+
 [![](https://img.shields.io/twitter/follow/Aadarsh805?color=blue&logo=blue&logoColor=blue&style=for-the-badge&labelColor=blue)](https://twitter.com/Aadarsh805)
 [![](https://img.shields.io/badge/Aadarsh-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/aadarsh-thakur-090a31227/)
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/aadarshthakur80501/)
