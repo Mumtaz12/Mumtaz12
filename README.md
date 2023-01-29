@@ -99,7 +99,7 @@ Reach 👇<br>
 
 <!--<img alt="Mumtaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumtaz12&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&show_icons=true"  align='left'/> -->
 <!--<img  src="https://github-readme-stats.vercel.app/api?username=Mumtaz12&show_icons=true&theme=react" width="48%" align="right" > -->
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mumtaz12&&theme=gruvbox" width="40%"/>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mumtaz12&&theme=gruvbox" width="45%"/>
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mumtaz12&theme=gruvbox" alt="mumtaz12"/></p>
 <!--<p align="center">
