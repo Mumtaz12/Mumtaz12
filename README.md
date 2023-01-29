@@ -110,7 +110,7 @@ Reach 👇<br>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Aadarsh805&theme=react" width="48%" >
 
 <!-- <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Aadarsh805&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Mumtaz12&theme=react-dark&area=true&hide_border=true" width="100%">
 </p>
 -->
 
