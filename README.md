@@ -87,7 +87,7 @@ Reach 👇<br>
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+### GitHub Profile Trophy :
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mumtaz12&no-frame=true&column=-1&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
