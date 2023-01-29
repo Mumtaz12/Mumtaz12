@@ -90,8 +90,6 @@ Reach 👇<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mumtaz12&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
- <img align="right" alt="GIF" src="code.gif?raw=true" width="400" height="250" />
-
 
 <!-- https://github.com/Mumtaz12/github-readme-stats -->
 
