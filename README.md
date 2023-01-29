@@ -97,7 +97,7 @@ Reach 👇<br>
 ### GitHub Profile Stats : 
  <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mumtaz12&show_icons=true&theme=gruvbox"></p>-->
 
-<img alt="Mumtaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumtaz12&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="48%" align='left'/> 
+<img alt="Mumtaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumtaz12&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="100%" align='left'/> 
 <!--<img  src="https://github-readme-stats.vercel.app/api?username=Mumtaz12&show_icons=true&theme=react" width="48%" align="right" > -->
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mumtaz12&&theme=gruvbox" width="48%" >
  
