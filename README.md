@@ -102,7 +102,7 @@ Reach 👇<br>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mumtaz12&theme=react" width="48%" >
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mumtaz12&show_icons=true&theme=react-dark&area=true" alt="mumtaz12" /></p>
-
-
--->
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=mumtaz12&theme=react-dark&area=true&hide_border=true" width="100%">
+</p>
 
