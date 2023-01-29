@@ -92,7 +92,7 @@ Reach 👇<br>
 
  <img align="right" alt="GIF" src="code.gif?raw=true" width="400" height="250" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mumtaz12&theme=react-dark&area=true&hide_border=true" alt="mumtaz12" /></a> </p>
+https://github-profile-trophy.vercel.app/?username=Mumtaz12&no-frame=true
 <!-- https://github.com/Mumtaz12/github-readme-stats -->
 
 ### GitHub Profile Stats : 
