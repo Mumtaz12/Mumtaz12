@@ -76,13 +76,6 @@ Reach 👇<br>
 <a href="https://discord.gg/khaan Mauz#7684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khaan Mauz#7684" height="30" width="40" /></a>
 </p>
 
-
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mumtaz12&theme=react-dark&area=true"/></p>
-
 ### Languages & Tools :
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -110,8 +103,6 @@ Reach 👇<br>
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mumtaz12&show_icons=true&theme=react-dark&area=true" alt="mumtaz12" /></p>
 
-<!-- <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=mumtaz12&theme=react-dark&area=true&hide_border=true" width="100%">
-</p>
+
 -->
 
