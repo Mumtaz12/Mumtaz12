@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 **[Personal Portfolio](https://mumtaz12.github.io/my-portfolio-website.github.io/)**
 
 <hr>
-<p align="left"> <a href="https://twitter.com/@iammumtazcs" target="blank"><img src="https://img.shields.io/twitter/follow/@iammumtazcs?logo=twitter&style=for-the-badge" alt="@iammumtazcs" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mumtaz12&label=Profile%20views&color=0e75b6&style=flat" alt="mumtaz12" /> </p>
 
 - 🔭 I’m currently working on **Frontend developer and UI/UX enthusiast**
 
@@ -38,15 +38,23 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **I think I am Serious**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mumtaz12&label=Profile%20views&color=0e75b6&style=flat" alt="mumtaz12" /> </p>
+
 Reach 👇<br>
 
+<p align="left"> <a href="https://twitter.com/@iammumtazcs" target="blank"><img src="https://img.shields.io/twitter/follow/@iammumtazcs?logo=twitter&style=for-the-badge" alt="@iammumtazcs" /></a> </p>
+
 [![](https://img.shields.io/twitter/follow/Aadarsh805?color=blue&logo=blue&logoColor=blue&style=for-the-badge&labelColor=blue)](https://twitter.com/Aadarsh805)
+
 [![](https://img.shields.io/badge/Aadarsh-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/aadarsh-thakur-090a31227/)
+
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/aadarshthakur80501/)
+
 [![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aadarsh805)
+
 [![](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://aadarshthakur.hashnode.dev/)
+
 [![](https://img.shields.io/badge/-Aadarsh805-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadarsh805)
+
 [![](https://img.shields.io/badge/-thakuraadarsh805@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aadarshthakur)](mailto:thakuraadarsh805@gmail.com)
 
  <img align="right" alt="GIF" src="code.gif?raw=true" width="400" height="250" />
