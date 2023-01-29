@@ -80,7 +80,6 @@ Reach 👇<br>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mumtaz12&show_icons=true&locale=en" alt="mumtaz12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mumtaz12&theme=react-dark&area=true&hide_border=true" " alt="mumtaz12" /></p>
 
@@ -108,6 +107,8 @@ Reach 👇<br>
 <!--   <img alt="Mumtaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumtaz12&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="48%" align='left'/> -->
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=Aadarsh805&show_icons=true&theme=react" width="48%" align="right" > -->
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mumtaz12&theme=react" width="48%" >
+ 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mumtaz12&show_icons=true&locale=en" alt="mumtaz12" /></p>
 
 <!-- <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=mumtaz12&theme=react-dark&area=true&hide_border=true" width="100%">
