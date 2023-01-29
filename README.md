@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <hr style="dotted">
 <h4>Bacherlor's in Computer Science and Engineering, inclined towards JavaScript. Passionate about Web Development and its use to solve real life problems and provide digital solutions.</h4>
 - <h2 align="center">Welcome to my Personal Website!</h2>
-
+<p align="left"> <a href="https://twitter.com/@iammumtazcs" target="blank"><img src="https://img.shields.io/twitter/follow/@iammumtazcs?logo=twitter&style=for-the-badge" alt="@iammumtazcs" /></a> </p>
 **[Personal Portfolio](https://mumtaz12.github.io/my-portfolio-website.github.io/)**
 
 <hr>
@@ -41,9 +41,6 @@ You can click the Preview link to take a look at your changes.
 
 
 Reach 👇<br>
-<p align="left"> <a href="https://twitter.com/@iammumtazcs" target="blank"><img src="https://img.shields.io/twitter/follow/@iammumtazcs?logo=twitter&style=for-the-badge" alt="@iammumtazcs" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/mohammad-mumtaz-3957b4260/" target="blank"><img src="https://img.shields.io/linkedin/follow/@mohammadmumtaz?logo=linkedin&style=for-the-badge"/></a> </p>
-
 [![](https://img.shields.io/twitter/follow/Aadarsh805?color=blue&logo=blue&logoColor=blue&style=for-the-badge&labelColor=blue)](https://twitter.com/Aadarsh805)
 [![](https://img.shields.io/badge/Aadarsh-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/aadarsh-thakur-090a31227/)
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/aadarshthakur80501/)
@@ -62,7 +59,7 @@ Reach 👇<br>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
 <a href="https://dev.to/@withmumtaz12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@withmumtaz12" height="30" width="40" /></a>
 <a href="https://twitter.com/@iammumtazcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iammumtazcs" height="30" width="40" /></a>
