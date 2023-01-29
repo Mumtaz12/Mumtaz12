@@ -88,11 +88,11 @@ Reach 👇<br>
 ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mumtaz12&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mumtaz12&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
  <img align="right" alt="GIF" src="code.gif?raw=true" width="400" height="250" />
 
-https://github-profile-trophy.vercel.app/?username=Mumtaz12&no-frame=true
+
 <!-- https://github.com/Mumtaz12/github-readme-stats -->
 
 ### GitHub Profile Stats : 
