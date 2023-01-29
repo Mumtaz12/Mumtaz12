@@ -51,12 +51,8 @@ Reach 👇<br>
 [![](https://img.shields.io/badge/-Aadarsh805-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadarsh805)
 [![](https://img.shields.io/badge/-thakuraadarsh805@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aadarshthakur)](mailto:thakuraadarsh805@gmail.com)
 
- <img align="right" alt="GIF" src="code.gif?raw=true" width="400" height="250" />
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mumtaz12&theme=react-dark&area=true&hide_border=true" alt="mumtaz12" /></a> </p>
 <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Aadarsh805&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Mumtaz12&theme=react-dark&area=true&hide_border=true" width="100%">
 </p>
 
 
@@ -92,6 +88,11 @@ Reach 👇<br>
 ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+
+ <img align="right" alt="GIF" src="code.gif?raw=true" width="400" height="250" />
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mumtaz12&theme=react-dark&area=true&hide_border=true" alt="mumtaz12" /></a> </p>
 <!-- https://github.com/Mumtaz12/github-readme-stats -->
 
 ### GitHub Profile Stats : 
