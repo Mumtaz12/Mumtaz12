@@ -78,7 +78,7 @@ Reach 👇<br>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mumtaz12&theme=react-dark&area=true" alt="mumtaz12" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mumtaz12&show_icons=true&locale=en" alt="mumtaz12" /></p>
 
@@ -103,6 +103,7 @@ Reach 👇<br>
 <!-- https://github.com/Mumtaz12/github-readme-stats -->
 
 ### GitHub Profile Stats : 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mumtaz12&theme=react-dark&area=true" alt="mumtaz12" /></p>
 
 <!--   <img alt="Mumtaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumtaz12&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" width="48%" align='left'/> -->
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=Aadarsh805&show_icons=true&theme=react" width="48%" align="right" > -->
