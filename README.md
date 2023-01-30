@@ -44,11 +44,11 @@ Reach 👇<br>
 <p> <a href="https://twitter.com/@iammumtazcs" target="blank"><img src="https://img.shields.io/twitter/follow/@iammumtazcs?logo=twitter&style=for-the-badge" alt="@iammumtazcs" /></a> </p>
 
 [![](https://img.shields.io/twitter/follow/@iammumtazcs?color=blue&logo=blue&logoColor=blue&style=for-the-badge&labelColor=blue)](https://twitter.com/@iammumtazcs)
-[![](https://img.shields.io/badge/mumtaz-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/aadarsh-thakur-090a31227/)
+[![](https://img.shields.io/badge/M_Mumtaz-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-mumtaz-3957b4260/)
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/aadarshthakur80501/)
 [![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aadarsh805)
 [![](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://aadarshthakur.hashnode.dev/)
-[![](https://img.shields.io/badge/-Aadarsh805-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aadarsh805)
+[![](https://img.shields.io/badge/-Aadarsh805-171515?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohammadmumtaz1997)
 [![](https://img.shields.io/badge/-Mumtaz12-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mumtaz12)
 [![](https://img.shields.io/badge/-thakuraadarsh805@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aadarshthakur)](mailto:thakuraadarsh805@gmail.com)
 
