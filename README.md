@@ -45,12 +45,12 @@ Reach 👇<br>
 
 [![](https://img.shields.io/twitter/follow/@iammumtazcs?color=blue&logo=blue&logoColor=blue&style=for-the-badge&labelColor=blue)](https://twitter.com/@iammumtazcs)
 [![](https://img.shields.io/badge/M_Mumtaz-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-mumtaz-3957b4260/)
-[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/aadarshthakur80501/)
+[![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/mohammadmumtaz1997/)
 [![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aadarsh805)
-[![](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://aadarshthakur.hashnode.dev/)
+[![](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@mumtaz)
 [![](https://img.shields.io/badge/-IAmMumtaz-171515?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohammadmumtaz1997)
 [![](https://img.shields.io/badge/-Mumtaz12-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mumtaz12)
-[![](https://img.shields.io/badge/-thakuraadarsh805@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aadarshthakur)](mailto:thakuraadarsh805@gmail.com)
+[![](https://img.shields.io/badge/-m.mumtazcs@yahoo.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:m.mumtazcs)](mailto:m.mumtazcs@yahoo.com)
 
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Mumtaz12&theme=react-dark&area=true&hide_border=true" width="100%">
@@ -66,7 +66,7 @@ Reach 👇<br>
 <p align="left">
 <a href="https://dev.to/@withmumtaz12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@withmumtaz12" height="30" width="40" /></a>
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iammumtazcs" height="30" width="40" /></a>
-<a href="https://hashnode.com/@mumtaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mumtaz" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mumtaz" height="30" width="40" /></a>
 <a href="https://medium.com/@mohammadmumtaz1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohammadmumtaz1997" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@DeepFakevolution" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@DeepFakevolution" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/mohammadmumtaz1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mohammadmumtaz1997/" height="30" width="40" /></a>
