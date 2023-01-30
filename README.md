@@ -48,7 +48,7 @@ Reach 👇<br>
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/aadarshthakur80501/)
 [![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aadarsh805)
 [![](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://aadarshthakur.hashnode.dev/)
-[![](https://img.shields.io/badge/-Aadarsh805-171515?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohammadmumtaz1997)
+[![](https://img.shields.io/badge/-IAmMumtaz-171515?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohammadmumtaz1997)
 [![](https://img.shields.io/badge/-Mumtaz12-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mumtaz12)
 [![](https://img.shields.io/badge/-thakuraadarsh805@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aadarshthakur)](mailto:thakuraadarsh805@gmail.com)
 
