@@ -51,6 +51,7 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/discord-2962FF?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/khaan)
 [![](https://img.shields.io/badge/-IAmMumtaz-171515?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mohammadmumtaz1997)
 [![](https://img.shields.io/badge/-Mumtaz12-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mumtaz12)
+[![](https://img.shields.io/badge/-Mumtaz-171515?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mohammadmumtaz11)
 [![](https://img.shields.io/badge/-m.mumtazcs@yahoo.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:m.mumtazcs)](mailto:m.mumtazcs@yahoo.com)
 [![](https://img.shields.io/badge/-DeepFakevolution-171515?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DeepFakevolution)
 <p align="center">
