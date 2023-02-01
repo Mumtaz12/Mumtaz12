@@ -4,16 +4,15 @@
 Mumtaz12/Mumtaz12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile...
 You can click the Preview link to take a look at your changes.   
 --->
-<p align="center">
+<!--<p align="center">
  <img align="center" alt="GIF" src="https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif" width='33%' />
-</p>
+</p>-->
 
 
 <h1 align="center">Hi 👋, I'm Mohammad Mumtaz</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-<hr>
 <h3>Summary </h3>
-<hr style="dotted">
+<hr style="dashed">
 <h4>Bacherlor's in Computer Science and Engineering, inclined towards JavaScript. Passionate about Web Development and its use to solve real life problems and provide digital solutions.</h4>
 - <h2 align="center">Welcome to my Personal Website!</h2>
 
@@ -94,7 +93,7 @@ You can click the Preview link to take a look at your changes.
 
 <img alt="Mumtaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumtaz12&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&show_icons=true"  align='left' width='44.5%'/>
 <!--<img  src="https://github-readme-stats.vercel.app/api?username=Mumtaz12&show_icons=true&theme=react" width="48%" align="right" > -->
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mumtaz12&&theme=gruvbox" width="44.5%"/>
+<!--<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mumtaz12&&theme=gruvbox" width="44.5%"/>-->
  
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mumtaz12&theme=gruvbox" alt="mumtaz12" width="44%"/></p>
 <!--<p align="center">
