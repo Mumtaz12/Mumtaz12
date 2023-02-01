@@ -95,7 +95,7 @@ You can click the Preview link to take a look at your changes.
 <!--<img  src="https://github-readme-stats.vercel.app/api?username=Mumtaz12&show_icons=true&theme=react" width="48%" align="right" > -->
 <!--<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mumtaz12&&theme=gruvbox" width="44.5%"/>-->
  
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mumtaz12&theme=gruvbox" alt="mumtaz12" width="44%"/></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mumtaz12&theme=gruvbox" alt="mumtaz12"/></p>
 <!--<p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Mumtaz12&theme=gruvbox&area=true&hide_border=true&layout=compact" width="100%">
 </p>-->
