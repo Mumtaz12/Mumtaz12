@@ -54,10 +54,12 @@ You can click the Preview link to take a look at your changes.
 [![](https://img.shields.io/badge/-Mumtaz?style=for-the-badge&logo=hackerrank&logoColor=white&red)](https://www.hackerrank.com/mohammadmumtaz11)
 [![](https://img.shields.io/badge/-m.mumtazcs@yahoo.com-c14438?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:m.mumtazcs)](mailto:m.mumtazcs@yahoo.com)
 [![](https://img.shields.io/badge/-DeepFakevolution-12345?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/@DeepFakevolution)
+
+[![Mumtaz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=advaith-unnikrishnan&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Mumtaz12&theme=react-dark&area=true&hide_border=true" width="100%">
 </p>
-[![mumtaz12's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mumtaz12&theme=dracula)](https://github.com/mumtaz12/github-readme-activity-graph)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
