@@ -101,4 +101,16 @@ You can click the Preview link to take a look at your changes.
 <!--<p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Mumtaz12&theme=gruvbox&area=true&hide_border=true&layout=compact" width="100%">
 </p>-->
+## 📊 Weekly Development Breakdown
+
+
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   59 mins         ██████████▒░░░░░░░░░░░░░░   41.99 %
+Markdown     36 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
+Other        30 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
+```
+
+<!--END_SECTION:waka-->
 
