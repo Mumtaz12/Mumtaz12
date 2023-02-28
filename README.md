@@ -101,7 +101,7 @@ You can click the Preview link to take a look at your changes.
  <img src="https://activity-graph.herokuapp.com/graph?username=Mumtaz12&theme=gruvbox&area=true&hide_border=true&layout=compact" width="100%">
 </p>-->
 
-
+<br>
 ### 📊 Weekly Development Breakdown
 
 
