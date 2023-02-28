@@ -8,7 +8,6 @@ You can click the Preview link to take a look at your changes.
  <img align="center" alt="GIF" src="https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif" width='33%' />
 </p>-->
 
-
 <h1 align="center">Hi 👋, I'm Mohammad Mumtaz</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 <h3>Summary </h3>
@@ -101,7 +100,9 @@ You can click the Preview link to take a look at your changes.
 <!--<p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=Mumtaz12&theme=gruvbox&area=true&hide_border=true&layout=compact" width="100%">
 </p>-->
-## 📊 Weekly Development Breakdown
+
+
+### 📊 Weekly Development Breakdown
 
 
 <!--START_SECTION:waka-->
