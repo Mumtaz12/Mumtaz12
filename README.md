@@ -4,9 +4,9 @@
 Mumtaz12/Mumtaz12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile...
 You can click the Preview link to take a look at your changes.   
 --->
-<!--<p align="center">
+<p align="center">
  <img align="center" alt="GIF" src="https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif" width='33%' />
-</p>-->
+</p>
 
 <h1 align="center">IN THE NAME OF ALLAH</h1>
 <h2 align="center"></h2>
@@ -89,6 +89,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- https://github.com/Mumtaz12/github-readme-stats -->
+
+
 
 ### GitHub Profile Stats : 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mumtaz12&langs_count=8&show_icons=true&theme=gruvbox" height="10%"></p>-->
