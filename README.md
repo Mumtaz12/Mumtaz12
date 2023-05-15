@@ -105,7 +105,7 @@ You can click the Preview link to take a look at your changes.
 </p>-->
 
 <br>
-### 📊 Weekly Development Breakdown
+### 📊 Weekly Development Breakdown:
 
 
 <!--START_SECTION:waka-->
