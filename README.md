@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
  <img align="center" alt="GIF" src="https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif" width='33%' />
 </p>-->
 
-<h1 align="center">IN THE NAME OF ALLAH</h1>
+<h1 align="center">IN THE NAME OF ALLAH the Most</h1>
 <h2 align="center"></h2>
 <h3 align="center">A passionate full Stack developer from India.</h3>
 <h3>Summary </h3>
