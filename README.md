@@ -5,7 +5,7 @@ Mumtaz12/Mumtaz12 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.   
 --->
 -<p align="center">
- <img align="center" alt="GIF" src="https://drive.google.com/file/d/1vdEIdvUYdlJA3MMD7y2CTIfKemuh_V-c/view?usp=sharing" width='33%' />
+ <img align="center" alt="PNG" src="https://drive.google.com/file/d/1vdEIdvUYdlJA3MMD7y2CTIfKemuh_V-c/view?usp=sharing" width='33%' />
 </p>
 
 <h1 align="center">IN THE NAME OF ALLAH the Most</h1>
