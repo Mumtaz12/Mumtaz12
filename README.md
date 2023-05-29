@@ -4,6 +4,21 @@
 Mumtaz12/Mumtaz12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile...
 You can click the Preview link to take a look at your changes.   
 --->
+<div id="header" align="center">
+
+<img src=["https://user-images.githubusercontent.com/48680310/233927090-0525363a-96c7-4f52-b1d1-e607c087dd19.png](https://drive.google.com/file/d/1vdEIdvUYdlJA3MMD7y2CTIfKemuh_V-c/view?usp=sharing)" />
+
+
+<p>
+</br>
+<a href="https://linkedin.com/in/mohammad-zolghadr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.mohammadzolghadr@gmail.com&su=Subject"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/mozo.plus"><img src="https://img.shields.io/badge/-Instagram-A50B5E?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
+
+#### <p align="justify">I am a Freelance Frontend Web Developer with patience and creativity and caring for projects. I am ready to cooperate with the latest technologies such as React.js and TailwindCss to build a stylish website with the best UX.</p>
+
+</div>
 -<p align="center">
  <img align="center" alt="PNG" src="https://drive.google.com/file/d/1vdEIdvUYdlJA3MMD7y2CTIfKemuh_V-c/view?usp=sharing" width='33%' />
 </p>
