@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
 
-<img src=["https://user-images.githubusercontent.com/48680310/233927090-0525363a-96c7-4f52-b1d1-e607c087dd19.png](https://drive.google.com/file/d/1vdEIdvUYdlJA3MMD7y2CTIfKemuh_V-c/view?usp=sharing)" />
+<img src="https://drive.google.com/file/d/1vdEIdvUYdlJA3MMD7y2CTIfKemuh_V-c/view?usp=sharing" />
 
 
 <p>
