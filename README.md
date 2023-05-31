@@ -7,9 +7,9 @@ You can click the Preview link to take a look at your changes.
 <div id="header" align="center">
 
 
-</div>
 
-<h1 align="center">IN THE NAME OF ALLAH</h1>
+
+<h1>IN THE NAME OF ALLAH</h1>
 <img src="https://github.com/Mumtaz12/Mumtaz12/assets/41723154/c0d27636-f1a5-4a05-bddc-6ac231bd170f" />
 <p>
 </br>
@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.mohammadzolghadr@gmail.com&su=Subject"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/mozo.plus"><img src="https://img.shields.io/badge/-Instagram-A50B5E?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-
+</div>
 <h3 align="center">A passionate full Stack developer from India.</h3>
 <h3>Summary </h3>
 <hr style="dashed">
