@@ -5,12 +5,8 @@ Mumtaz12/Mumtaz12 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.   
 --->
 <div id="header" align="center">
-
-
-
-
 <h1>IN THE NAME OF ALLAH</h1>
-<img src="https://github.com/Mumtaz12/Mumtaz12/assets/41723154/c0d27636-f1a5-4a05-bddc-6ac231bd170f" />
+<img src="https://github.com/Mumtaz12/Mumtaz12/assets/41723154/a17383d8-fa77-4ac2-a7d6-a2f106c29668" />
 <p>
 </br>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-mumtaz-3957b4260/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
