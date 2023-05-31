@@ -5,9 +5,9 @@ Mumtaz12/Mumtaz12 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.   
 --->
 <div id="header" align="center">
-![Screenshot (110)](https://github.com/Mumtaz12/Mumtaz12/assets/41723154/c0d27636-f1a5-4a05-bddc-6ac231bd170f)
+![Screenshot (110)]()
 
-<img src="" />
+<img src="https://github.com/Mumtaz12/Mumtaz12/assets/41723154/c0d27636-f1a5-4a05-bddc-6ac231bd170f" />
 
 
 <p>
