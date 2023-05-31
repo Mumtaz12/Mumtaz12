@@ -6,6 +6,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
 
+
+</div>
+
+<h1 align="center">IN THE NAME OF ALLAH</h1>
 <img src="https://github.com/Mumtaz12/Mumtaz12/assets/41723154/c0d27636-f1a5-4a05-bddc-6ac231bd170f" />
 <p>
 </br>
@@ -14,13 +18,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://instagram.com/mozo.plus"><img src="https://img.shields.io/badge/-Instagram-A50B5E?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-</div>
--<p align="center">
- <img align="center" alt="PNG" src="https://github.com/Mumtaz12/Mumtaz12/assets/41723154/c0d27636-f1a5-4a05-bddc-6ac231bd170f" width='33%' />
-</p>
-
-<h1 align="center">IN THE NAME OF ALLAH the Most</h1>
-<h2 align="center"></h2>
 <h3 align="center">A passionate full Stack developer from India.</h3>
 <h3>Summary </h3>
 <hr style="dashed">
