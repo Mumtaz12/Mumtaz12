@@ -4,7 +4,7 @@
 Mumtaz12/Mumtaz12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile...
 You can click the Preview link to take a look at your changes.   
 --->
-<!-- <div id="header" align="center">
+<div id="header" align="center">
 <h1>IN THE NAME OF ALLAH</h1>
 <img src="https://github.com/Mumtaz12/Mumtaz12/assets/41723154/a17383d8-fa77-4ac2-a7d6-a2f106c29668" />
 <p>
@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A passionate full Stack developer from India.</h3>
 <h3>Summary </h3>
 <hr style="dashed">
-<h4>My Name is Mohammad Mumtaz,I am a Full-Stack Developer and it’s been 1 years that I’m Coding and has learnt so many things.inclined towards JavaScript. Passionate about Web Development and its use to solve real life problems and provide digital solutions.I like to collaborate with Developer for learning new things from them.</h4> -->
+<h4>My Name is Mohammad Mumtaz,I am a Full-Stack Developer and it’s been 1 years that I’m Coding and has learnt so many things.inclined towards JavaScript. Passionate about Web Development and its use to solve real life problems and provide digital solutions.I like to collaborate with Developer for learning new things from them.</h4>
 -<h2 align="center">Welcome to my Personal Website!</h2>
 - [Personal Portfolio!](https://mumtaz12.github.io/my-portfolio-website.github.io/)
 <hr>
