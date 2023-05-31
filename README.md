@@ -14,13 +14,14 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.instagram.com/mumtaz_developer09/"><img src="https://img.shields.io/badge/-Instagram-A50B5E?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-<!-- <h3 >A passionate full Stack developer from India.</h3> -->
-<!-- <h3>Summary </h3> -->
-<!-- <hr style="dashed">
-<h4>My Name is Mohammad Mumtaz,I am a Full-Stack Developer and it’s been 1 years that I’m Coding and has learnt so many things.inclined towards JavaScript. Passionate about Web Development and its use to solve real life problems and provide digital solutions.I like to collaborate with Developer for learning new things from them.</h4>
--<h2 align="center">Welcome to my Personal Website!</h2> -->
+
 - [Personal Portfolio!](https://mumtaz12.github.io/my-portfolio-website.github.io/)
 <hr>
+<h3 >A passionate full Stack developer from India.</h3>
+<h3>Summary </h3>
+<hr style="dashed">
+<h4>My Name is Mohammad Mumtaz,I am a Full-Stack Developer and it’s been 1 years that I’m Coding and has learnt so many things.inclined towards JavaScript. Passionate about Web Development and its use to solve real life problems and provide digital solutions.I like to collaborate with Developer for learning new things from them.</h4>
+-<h2 align="center">Welcome to my Personal Website!</h2>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mumtaz12&label=Profile%20views&color=0e75b6&style=flat" alt="mumtaz12" /> </p>
