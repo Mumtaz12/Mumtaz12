@@ -19,7 +19,6 @@ You can click the Preview link to take a look at your changes.
 <hr style="dashed">
 <h4>My Name is Mohammad Mumtaz,I am a Full-Stack Developer and it’s been 1 years that I’m Coding and has learnt so many things.inclined towards JavaScript. Passionate about Web Development and its use to solve real life problems and provide digital solutions.I like to collaborate with Developer for learning new things from them.</h4>
 - <h2 align="center">Welcome to my Personal Website!</h2>
- **[Personal Portfolio!](https://mumtaz12.github.io/my-portfolio-website.github.io/)**
 
 <hr>
 
@@ -39,7 +38,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **m.mumtazcs@yahoo.com**
 
-- ⚡ Fun fact **I think I am Serious**
+- ⚡ Fun fact **I think I am Serious** [Personal Portfolio!](https://mumtaz12.github.io/my-portfolio-website.github.io/)
 
 
 ### Connect with me:👇<br>
