@@ -5,11 +5,8 @@ Mumtaz12/Mumtaz12 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.   
 --->
 <div id="header" align="center">
-![Screenshot (110)]()
 
 <img src="https://github.com/Mumtaz12/Mumtaz12/assets/41723154/c0d27636-f1a5-4a05-bddc-6ac231bd170f" />
-
-
 <p>
 </br>
 <a href="https://linkedin.com/in/mohammad-zolghadr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
@@ -17,11 +14,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://instagram.com/mozo.plus"><img src="https://img.shields.io/badge/-Instagram-A50B5E?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-#### <p align="justify">I am a Freelance Frontend Web Developer with patience and creativity and caring for projects. I am ready to cooperate with the latest technologies such as React.js and TailwindCss to build a stylish website with the best UX.</p>
-
 </div>
 -<p align="center">
- <img align="center" alt="PNG" src="https://drive.google.com/file/d/1vdEIdvUYdlJA3MMD7y2CTIfKemuh_V-c/view?usp=sharing" width='33%' />
+ <img align="center" alt="PNG" src="https://github.com/Mumtaz12/Mumtaz12/assets/41723154/c0d27636-f1a5-4a05-bddc-6ac231bd170f" width='33%' />
 </p>
 
 <h1 align="center">IN THE NAME OF ALLAH the Most</h1>
