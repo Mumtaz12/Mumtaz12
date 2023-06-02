@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-⏩⏩- [Personal Portfolio!](https://mumtaz12.github.io/my-portfolio-website.github.io/)
+⏩⏩⏩- [Personal Portfolio!](https://mumtaz12.github.io/my-portfolio-website.github.io/)⏪⏪⏪
 
 
 <h3 align="left">Summary </h3><h3 >A passionate full Stack developer from India.</h3>
@@ -24,11 +24,11 @@ You can click the Preview link to take a look at your changes.
 </div>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mumtaz12&label=Profile%20views&color=0e75b6&style=flat" alt="mumtaz12" /> </p>
-- 🔭 I’m currently working on **Frontend developer and UI/UX enthusiast...**
+- 🔭 I’m currently working on💻💻 **Frontend developer and UI/UX enthusiast...**
 
 - 🌱 I’m currently learning **ReactJS,Nodejs,MongoDB,**
 
-- 👯 Looking forward to collaborate on **Open Source Projects**
+- 👯 Looking forward to collaborate on 📢**Open Source Projects**
 
 - 🤝 I’m looking for help with **Google**
 
@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact **I think I am Serious** 
 
 
-###⏩ Connect with me:👇<br>
+### Connect with me:⏬⏬<br>
 <p> <a href="https://twitter.com/@iammumtazcs" target="blank"><img src="https://img.shields.io/twitter/follow/@iammumtazcs?logo=twitter&style=for-the-badge" alt="@iammumtazcs" /></a> </p>
 
 [![](https://img.shields.io/twitter/follow/@iammumtazcs?color=blue&logo=blue&logoColor=blue&style=for-the-badge&labelColor=blue)](https://twitter.com/@iammumtazcs)
@@ -63,14 +63,14 @@ You can click the Preview link to take a look at your changes.
  <img src="https://activity-graph.herokuapp.com/graph?username=Mumtaz12&theme=react-dark&area=true&hide_border=true" width="100%">
 </p>
 
-### Blogs posts:
+### Blogs posts⏬⏬:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 
 
 
-### Languages & Tools :
+### Languages & Tools ⏬⏬:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -94,7 +94,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### GitHub Profile Stats : 
+### GitHub Profile Stats ⏬⏬: 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mumtaz12&langs_count=8&show_icons=true&theme=gruvbox" height="10%"></p>-->
 
 <img alt="Mumtaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumtaz12&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&show_icons=true"  align='left'/>
@@ -107,13 +107,13 @@ You can click the Preview link to take a look at your changes.
 </p>-->
 
 <br>
-### 📊 Weekly Development Breakdown:
+### 📊 Weekly Development Breakdown⏬⏬:
 
 
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   59 mins         ██████████▒░░░░░░░░░░░░░░   41.99 %
+JavaScript   79 mins         ██████████▒░░░░░░░░░░░░░░   41.99 %
 Markdown     36 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
 Other        30 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
 ```
