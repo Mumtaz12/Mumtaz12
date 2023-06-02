@@ -1,4 +1,4 @@
-[Personal Portfolio!](https://mumtaz12.github.io/my-portfolio-website.github.io/)
+
 
 <!--- 22
 Mumtaz12/Mumtaz12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile...
@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-- [Personal Portfolio!](https://mumtaz12.github.io/my-portfolio-website.github.io/)
+⏩⏩- [Personal Portfolio!](https://mumtaz12.github.io/my-portfolio-website.github.io/)
 
 
 <h3 align="left">Summary </h3><h3 >A passionate full Stack developer from India.</h3>
@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact **I think I am Serious** 
 
 
-### Connect with me:👇<br>
+###⏩ Connect with me:👇<br>
 <p> <a href="https://twitter.com/@iammumtazcs" target="blank"><img src="https://img.shields.io/twitter/follow/@iammumtazcs?logo=twitter&style=for-the-badge" alt="@iammumtazcs" /></a> </p>
 
 [![](https://img.shields.io/twitter/follow/@iammumtazcs?color=blue&logo=blue&logoColor=blue&style=for-the-badge&labelColor=blue)](https://twitter.com/@iammumtazcs)
