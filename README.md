@@ -11,8 +11,6 @@ You can click the Preview link to take a k
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.mumtazdeveloper09@gmail.com&su=Subject"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/mumtaz_developer09/"><img src="https://img.shields.io/badge/-Instagram-A50B5E?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-
-
 ⏩⏩⏩- [Personal Portfolio!](https://mumtaz12.github.io/my-portfolio-website.github.io/)⏪⏪⏪
 
 
