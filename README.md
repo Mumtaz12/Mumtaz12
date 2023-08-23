@@ -1,5 +1,5 @@
 <!--- 
-Mumtaz12/Mumtaz12 repository  `README.md` (this file) appears on your GitHub profile...
+Mumtaz12/Mumtaz12 reposory  `README.md` (this file) appears on your GitHub profile...
 You can click the Preview link
 --->
 <div id="header" align="center">
