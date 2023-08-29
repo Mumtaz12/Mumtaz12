@@ -98,7 +98,7 @@ You can click the Preview link
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mumtaz12&theme=gruvbox" alt="mumtaz12"/></p>
 <p align="center">
 <!--  <img src="https://activity-graph.herokuapp.com/graph?username=Mumtaz12&theme=gruvbox&area=true&hide_border=true&layout=compact" width="100%"> -->
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mumtaz12&bg_color=7f767b&color=e2dfe2&line=6c3368&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mumtaz12&bg_color=7f767b&color=e2dfe2&line=6c3368&point=403d3d&area=true&hide_border=true)
 </p>
 
 <br>
