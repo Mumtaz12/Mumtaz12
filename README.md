@@ -89,7 +89,8 @@ You can click the Preview link
 
 
 ### GitHub Profile Stats ⏬⏬: 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mumtaz12&langs_count=8&show_icons=true&theme=gruvbox" height="10%"></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mumtaz12&langs_count=8&show_icons=true&theme=gruvbox" height="10%">
+ </p>-->
 
 <img alt="Mumtaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumtaz12&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&show_icons=true"  align='left'/>
 <!--<img  src="https://github-readme-stats.vercel.app/api?username=Mumtaz12&show_icons=true&theme=react" width="48%" align="right" > -->
