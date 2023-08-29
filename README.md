@@ -17,7 +17,7 @@ You can click the Preview link
 <h4>My Name is Mohammad Mumtaz,I am a Full-Stack Developer and it’s been 1 years that I’m Coding and has learnt so many things.inclined towards JavaScript. Passionate about Web Development and its use to solve real life problems and provide digital solutions.I like to collaborate with Developer for learning new things from them.</h4>
 </div>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mumtaz12&label=Profile%20views&color=0e75b6&style=flat" alt="mumtaz12" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mumtaz12&label=Profile%20views&color=0e75b6&style=flat" alt="mumtaz12" /> </p> -->
 - 🔭 I’m currently working on**Frontend developer and UI/UX enthusiast**
 
 - 🌱 I’m currently learning **ReactJS,Nodejs,MongoDB,**
