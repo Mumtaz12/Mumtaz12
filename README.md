@@ -3,7 +3,7 @@ Mumtaz12/Mumtaz12 reposory  `README.md` (this file) appearsn your GitHub profile
 You can click the Preview link
 --->
 <div id="header" align="center">
-<h1>IN THE NAME OF ALLAH</h1>
+<h1>IN THE NAME OF <italic>ALLAH</italic></h1>
 <img src="https://github.com/Mumtaz12/Mumtaz12/assets/41723154/a17383d8-fa77-4ac2-a7d6-a2f106c29668" />
 <p>
 </br>
