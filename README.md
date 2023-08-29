@@ -20,7 +20,7 @@ You can click the Preview link
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mumtaz12&label=Profile%20views&color=0e75b6&style=flat" alt="mumtaz12" /> </p>
 - 🔭 I’m currently working on**Frontend developer and UI/UX enthusiast**
 
-- 🌱 I’m currently learning **ReactJS,Nodejs,MongoDB,**
+- 🌱 I’m currently learning **ReactJS,Nodejs,MongoDB,Vue.js**
 
 - 👯 Looking forward to collaborate on 📢**Open Source Projects**
 
