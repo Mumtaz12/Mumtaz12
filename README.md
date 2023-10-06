@@ -11,7 +11,7 @@ You can click the Preview link
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.mumtazdeveloper09@gmail.com&su=Subject"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/mumtaz_developer09/"><img src="https://img.shields.io/badge/-Instagram-A50B5E?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-<!-- [Personal Portfolio!](https://mumtaz12.github.io/my-portfolio-website.github.io/) -->
+[Personal Portfolio!](https://mumtaz12.github.io/my-portfolio-website.github.io/)
 <h3 align="left">Summary </h3><h3 >A passionate full Stack developer from India.</h3>
 <hr style="dashed">
 <h4>My Name is Mohammad Mumtaz,I am a Full-Stack Developer and it’s been 1 years that I’m Coding and has learnt so many things.inclined towards JavaScript. Passionate about Web Development and its use to solve real life problems and provide digital solutions.I like to collaborate with Developer for learning new things from them.</h4>
