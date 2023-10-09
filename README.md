@@ -56,16 +56,17 @@ You can click the Preview link
 <p align="center">
 <!--  <img src="https://activity-graph.herokuapp.com/graph?username=Mumtaz12&theme=react-dark&area=true&hide_border=true" width="100%"> -->
 </p>
+<br>
 
 ### Blogs posts⏬⏬:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
+<br>
 
 
 ### Languages & Tools ⏬⏬:
-
+<br>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React.JS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -87,11 +88,11 @@ You can click the Preview link
 <!-- https://github.com/Mumtaz12/github-readme-stats -->
 
 
-
+<br>
 ### GitHub Profile Stats ⏬⏬: 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mumtaz12&langs_count=8&show_icons=true&theme=gruvbox" height="10%">
  </p>-->
-
+<br>
 <img alt="Mumtaz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumtaz12&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&show_icons=true"  align='left'/>
 <!--<img  src="https://github-readme-stats.vercel.app/api?username=Mumtaz12&show_icons=true&theme=react" width="48%" align="right" > -->
 <!--<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mumtaz12&&theme=gruvbox" width="44.5%"/>-->
