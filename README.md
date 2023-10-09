@@ -105,14 +105,10 @@ You can click the Preview link
 <br>
 <!-- ### 📊 Weekly Development Breakdown⏬⏬:
 
-<br>
-<!--START_SECTION:waka-->
 
-```text
-JavaScript   79 mins         ██████████▒░░░░░░░░░░░░░░   99.99 %
-Markdown     36 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.02 %
-Other        30 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
-```
+<!-- START_SECTION:waka--> -->
 
-<!--END_SECTION:waka--> -->
+
+
+<!--END_SECTION:waka-->
 
