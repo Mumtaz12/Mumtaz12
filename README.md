@@ -56,7 +56,7 @@ You can click the Preview link
 <p align="center">
 <!--  <img src="https://activity-graph.herokuapp.com/graph?username=Mumtaz12&theme=react-dark&area=true&hide_border=true" width="100%"> -->
 </p>
-<br>
+
 
 ### Blogs posts⏬⏬:
 <!-- BLOG-POST-LIST:START -->
