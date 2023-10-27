@@ -1,6 +1,6 @@
 <!--- 
 Mumtaz12/Mumtaz12 reposory  `README.md` (this file) appearsn your GitHub profile...
-You can click the Preview link
+You can click the Preview 
 --->
 <div id="header" align="center">
 <h2>IN THE NAME OF <italic>ALLAH</italic></h2>
