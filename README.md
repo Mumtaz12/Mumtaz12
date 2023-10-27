@@ -4,8 +4,8 @@ You can click the Preview
 --->
 <div id="header" align="center">
 <h2>IN THE NAME OF <italic>ALLAH</italic></h2>
-<!-- <img src="https://github.com/Mumtaz12/Mumtaz12/assets/41723154/a17383d8-fa77-4ac2-a7d6-a2f106c29668" /> -->
- <img src="https://github.com/Mumtaz12/Mumtaz12/blob/f30642daaa5b606090fa254e33d7c5af598dffa1/mmm.png"/>
+<img src="https://github.com/Mumtaz12/Mumtaz12/assets/41723154/a17383d8-fa77-4ac2-a7d6-a2f106c29668" />
+<!--  <img src="https://github.com/Mumtaz12/Mumtaz12/blob/f30642daaa5b606090fa254e33d7c5af598dffa1/mmm.png"/> -->
 <p>
 </br>
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-mumtaz-3957b4260/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
